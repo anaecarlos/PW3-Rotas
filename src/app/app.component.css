@@ -1,0 +1,9 @@
+*{
+  display:flex;
+  margin: 0;
+  flex-direction: column;
+}
+
+.link{
+  text-decoration: none;
+}
